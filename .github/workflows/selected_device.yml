@@ -76,7 +76,8 @@ on:
           - xiaomi-umi
           - xiaomi-vayu
           - xiaomi-venus
-
+          - xiaomi-pipa 
+          
 # Indicate that we are running in CI
 env:
   WM_CI_BUILD: true
